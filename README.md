@@ -1,5 +1,6 @@
-# Pet Sitting Website - Practical 1
-This project is Practical 1 for the [Course Name]. The task was to create a simple website for a startup business and publish it online. In this project, I’ve built a pet sitting startup website using HTML, CSS, and Bootstrap.
+#  CP3402 Practical 1
+## Pet Sitting Website
+This project is Practical 1 for the CP3402 Content Management System. The task was to create a simple website for a startup business and publish it online. In this project, I’ve built a pet sitting startup website using HTML, CSS, and Bootstrap.
 
 ## Project Overview
 The website contains three pages:
